@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Swift/iOS development and Flutter mobile development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nathan-au](https://github.com/nathan-au)
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/-nathanau/](https://www.linkedin.com/in/-nathanau/)
 
 - ⚡ Fun fact **super awesome chicken grass**
