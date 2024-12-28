@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h2 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A software engineering student at Concordia University</h3>
 
 - 🔭 I’m currently working on **[Amicae](https://github.com/nathan-au/amicae-app.git), a mobile Flutter app**
