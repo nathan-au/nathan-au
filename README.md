@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift/iOS development and Flutter mobile development**
 
-- 📄 Know about my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/-nathanau/)
+- 📄 Check out my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/-nathanau/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
