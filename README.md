@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Amicae](https://github.com/nathan-au/amicae-app.git), a mobile flutter app**
 
-- 🌱 I’m currently learning **Swift/iOS development and Flutter mobile development**
+- 🌱 I’m currently learning **mobile development (SwiftUI and Flutter)**
 
 - 📄 Check out my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/-nathanau/)
 
