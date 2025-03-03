@@ -19,11 +19,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="mysql" width="auto" height="40"/> 
 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="auto" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="firebase" width="auto" height="40"/> 
   <!---<img src="" alt="" width="auto" height="40"/>-->
 </p>
