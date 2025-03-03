@@ -28,12 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="auto" height="40"/> 
   <img src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" alt="unity" width="40" height="40"/> 
   <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" alt="firebase" width="auto" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="auto" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" width="auto" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="auto" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="androidstudio" width="auto" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Xcode.svg/1200px-Xcode.svg.png" alt="xcode" width="auto" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" alt="vim" width="auto" height="40"/> 
   <!---<img src="" alt="" width="auto" height="40"/>-->
 </p>
 
