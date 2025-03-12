@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **[Amicae](https://github.com/nathan-au/amicae-app.git), a mobile Flutter app**
 
-- 🌱 I’m currently learning **mobile development (SwiftUI and Flutter)**
+- 🌱 I’m currently learning **mobile development (SwiftUI and Flutter)** and **website UI/UX**
 
-- 📄 Check out my experiences and connect with me on **[LinkedIn (-nathanau)](https://www.linkedin.com/in/-nathanau/)**
+- 📄 Check out my experiences on **[my website (nathan-au.github.io)](https://nathan-au.github.io/)** and connect with me on **[LinkedIn (-nathanau)](https://www.linkedin.com/in/-nathanau/)**
 
 <h3 align="center">Technologies:</h3>
 <p align="center"> 
